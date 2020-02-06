@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88698758944",
+    "firebase_url": "https://yazlab3-9783b.firebaseio.com",
+    "project_id": "yazlab3-9783b",
+    "storage_bucket": "yazlab3-9783b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88698758944:android:31c4041753c06220d3d945",
+        "android_client_info": {
+          "package_name": "com.kouceng.yazlab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88698758944-dfqpl2200mlfhb9mui2c1jdk401vundm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kouceng.yazlab3",
+            "certificate_hash": "47b6d23edc0b03bf857723503192875439a73d00"
+          }
+        },
+        {
+          "client_id": "88698758944-avpdtjt2fesn0c0tv4uvked9dpajoqmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMy_r3q1XzM-GBSqblWdB3OKhFN3G70g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88698758944-avpdtjt2fesn0c0tv4uvked9dpajoqmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
