@@ -3,7 +3,7 @@
 
 ## Projeler
 
-- **1. Proje:** Rastegele bir fiş, dış ortam farketmeksizin kamera ile çekilip sisteme tanıtılmasının ardından fiş üzerindeki bilgilerin parse edilerek GUI ekrarnında gösterilmesi ve veritabanına kaydedilmesi istenmiştir. Java ve OpenCV kütüphanesi ile geliştirilmiştir.
+- **1. Proje:** Rastgele bir fiş, dış ortam(karanlık ortam) veya etkenler(fiş yıpranması) farketmeksizin kamera ile çekilip sisteme tanıtılmasının ardından fiş üzerindeki bilgilerin parse edilerek GUI ekrarnında gösterilmesi ve veritabanına kaydedilmesi istenmiştir. Java ve OpenCV kütüphanesi ile geliştirilmiştir.
 
 - **2. Proje:** Bir ana sunucu, 2 veya daha fazla ara sunucudan oluşan bir websitesi veya mobil uygulamaya sync multithreadler ile yük bindirme/azaltma ve yük dağılım işlemi yapılmıştır. Ana sunucu üzerindeki istek yüklerinin ara sunuculara dağıtılması sağlanarak ana sunucuya yeni gelecek olan isteklerin kabul edilmesi sağlanarak websitesi veya mobil uygulamaya istek yapan kullanıcıların sunucularda rahat bir şekilde işlem yapılmasına izin verilir. Bir nevi sunucular üzerinde **load balancing** işleminin prototipi yapılmıştır. Java ile geliştirilmiştir. İşletim Sistemleri dersinde öğrenilen bilgiler yardımıyla geliştirilmiştir. 
 
