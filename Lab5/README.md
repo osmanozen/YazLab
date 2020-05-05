@@ -1,7 +1,5 @@
 # Words of Wonders - Kelime Bulmaca Oyunu
 
-Kaynak kodları gizlidir.
-
 ![](https://github.com/osmanozen/YazLab/blob/master/Lab5/Screenshot/1.jpg)
 
 ![](https://github.com/osmanozen/YazLab/blob/master/Lab5/Screenshot/2-MainActivitity.jpg)
