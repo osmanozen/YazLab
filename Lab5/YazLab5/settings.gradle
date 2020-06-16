@@ -1,0 +1,2 @@
+rootProject.name='YazLab5'
+include ':app'
