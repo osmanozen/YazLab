@@ -1,6 +1,6 @@
 # YazLab
 - Yazılım Laboratuvarı dersinde geliştirdiğim projeler yer almakta.
-- Yazılım Laboratuvarı 1: BA - Yazılım Laboratuvarı 2: AA ile dersleri başarılı bir şekilde verdik.
+- Yazılım Laboratuvarı 1: BA - Yazılım Laboratuvarı 2: AA ile dersleri başarılı bir şekilde verdim.
 
 ## Projeler
 
