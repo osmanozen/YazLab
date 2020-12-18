@@ -10,7 +10,7 @@
 
 - **3. Proje:** Android ortamda kullanıcı galeri veya kameradan fotoğraf çekerek belirlenen oranda sıkıtırılmasını ve segmentasyon ile nesne tanımlanması istenmiştir. Sıkıştırma işlemi firebase üzerinde node.js ile yapılırken, segmentasyon işlemi Google Vision API ile yapılmıştır. **Android Studio(Java)** ve **node.js** ile **Firebase** altyapısında geliştirilmiştir.
 
-- **4. Proje:** Bir kütüphane sisteminin web ortamında görüntü işleme ile kullanılarak otomasyonu yazılmıştır. 1 panel üzerinden middleware ile hem yönetici hem kullanıcıya özel panel/sayfalar tasarlanmıştır. Web tarafında **Laravel** geliştirilirken, görüntü işleme kısmında ise **Pyhton** ve **OpenCV** ile geliştirilmiştir.
+- **4. Proje:** Bir kütüphane sisteminin web ortamında görüntü işleme ile kullanılarak otomasyonu yazılmıştır. 1 panel üzerinden middleware ile hem yönetici hem kullanıcıya özel panel/sayfalar tasarlanmıştır. Web tarafında **Laravel** geliştirilirken, görüntü işleme kısmında ise **Python** ve **OpenCV** ile geliştirilmiştir.
 
 - **5. Proje:** Android ortamında kelime bulmacası oyunu(Word of Wonders) tasarlanmıştır. Her seviyeye ait kelimeler crossword algoritması ile iç içe bulmacaya dökülmüştür. Kullanıcıya yardımcı olması açısından harf karıştırma, bulmacada eksik olan kelimeyi tahmin etmesi için ipucu sekmeleri eklenmiştir. Her seviyede puan hesaplaması yapılıp, skorlar skor tablosunda gösterilmektedir. **Android Studio(Java)** ile geliştirilmiştir.
 
