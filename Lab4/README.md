@@ -1,4 +1,4 @@
-# Kütüphane Uygulaması - Laravel + Phyton
+# Kütüphane Uygulaması - Laravel + Python
 
 ![](https://github.com/osmanozen/YazLab/blob/master/Lab4/Screenshot/1.png)
 
